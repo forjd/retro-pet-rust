@@ -13,11 +13,7 @@ A tiny desktop companion inspired by classic virtual pets. Retro Pet is built in
 
 ## Screenshot
 
-Run the app to meet your generated pet:
-
-```bash
-cargo run
-```
+![Retro Pet desktop app screenshot](./screenshot.png)
 
 ## Getting Started
 
